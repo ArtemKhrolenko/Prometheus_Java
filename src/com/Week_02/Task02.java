@@ -22,6 +22,7 @@ public class Task02 {
                 k++;
             }
             System.out.println();
+
         }
     }
 }
