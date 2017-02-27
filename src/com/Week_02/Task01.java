@@ -25,6 +25,7 @@ public class Task01 {
            if (c != 0){
                x1 = (-b + Math.sqrt(discrim)) / (2*a);
                x2 = discrim == 0 ? x1 : (-b - Math.sqrt(discrim)) / (2*a);
+
            }
            System.out.println("x1=" + x1);
            System.out.println("x2=" + x2);
