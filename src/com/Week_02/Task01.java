@@ -10,8 +10,8 @@ public class Task01 {
     public static void main(String[] args) {
         //------input parameters---//
         double a = 0;
-        double b = 0;
-        double c = 999999;
+        double b = 2;
+        double c = 0;
         //-------------------------//
 
         double discrim = b*b - 4 * a  * c;
