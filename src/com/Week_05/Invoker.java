@@ -39,6 +39,9 @@ public class Invoker {
             return;
         }
         command.execute();
+
+
+
     }
 
 }
