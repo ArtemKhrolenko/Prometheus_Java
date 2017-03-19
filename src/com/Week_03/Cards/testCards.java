@@ -1,11 +1,5 @@
-package Week_03.Cards;
+package com.Week_03.Cards;
 
-import java.util.ArrayList;
-import java.util.Collections;
-
-/**
- * Created by Khrolenko on 11.03.2017.
- */
 public class testCards {
 
    private static Deck deck = new Deck();

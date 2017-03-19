@@ -1,10 +1,5 @@
-package Week_03.Cards;
+package com.Week_03.Cards;
 
-import java.util.ArrayList;
-
-/**
- * Created by Khrolenko on 11.03.2017.
- */
 public class Deck {
 
     public Card[] cards;
@@ -21,7 +16,6 @@ public class Deck {
             }
         }
     }
-
 
     // /Перемішує колоду у випадковому порядку
     public void shuffle() {

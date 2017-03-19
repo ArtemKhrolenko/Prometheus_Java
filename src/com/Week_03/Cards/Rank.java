@@ -1,8 +1,6 @@
-package Week_03.Cards;
+package com.Week_03.Cards;
 
-/**
- * Created by Khrolenko on 11.03.2017.
- */
+
 public class Rank {
     public static final Rank ACE = new Rank("Ace");
     public static final Rank KING = new Rank("King");

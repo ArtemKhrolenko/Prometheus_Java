@@ -1,4 +1,4 @@
-package Week_04;
+package com.Week_04;
 
 /**
  * Created by Khrolenko on 12.03.2017.

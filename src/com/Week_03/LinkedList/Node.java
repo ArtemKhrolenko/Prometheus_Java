@@ -1,4 +1,4 @@
-package Week_03.LinkedList;
+package com.Week_03.LinkedList;
 
 /**
  * Created by Khrolenko on 10.03.2017.

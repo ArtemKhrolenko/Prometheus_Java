@@ -1,8 +1,5 @@
-package Week_03.LinkedList;
+package com.Week_03.LinkedList;
 
-/**
- * Created by Khrolenko on 10.03.2017.
- */
 public class ListTest {
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
