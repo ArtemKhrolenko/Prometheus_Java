@@ -13,7 +13,7 @@ public class Parser {
 
         String[] list = rpnString.split(" ");
 
-        double result = 0;
+        double result;
 
         try {
             for (int i = 0; i < list.length; i++) {
