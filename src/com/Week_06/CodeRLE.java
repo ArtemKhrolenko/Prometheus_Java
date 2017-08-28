@@ -45,6 +45,7 @@ public class CodeRLE {
                     resultTmp += letters[i] + 9;
                 }
                 if (rest > 0) resultTmp += letters[i] + rest;
+
             }
         }
         System.out.println(resultTmp);
